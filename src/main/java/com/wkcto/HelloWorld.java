@@ -14,6 +14,7 @@ public class HelloWorld {
 
     public static void main(String[] args) {
         System.out.println("一切都会水到渠成的");
+        System.out.println("既然上天选择了你，就会为了做好一切");
     }
 
 }
