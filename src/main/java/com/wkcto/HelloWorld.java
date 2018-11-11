@@ -17,6 +17,7 @@ public class HelloWorld {
         System.out.println("既然上天选择了你，就会为了做好一切");
         System.out.println("你可以收到吗");
         System.out.println("我一定可以");
+        System.out.println("你可以收到吗");
 
     }
 
